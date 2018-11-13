@@ -1,4 +1,4 @@
-# Onboarding Overview
+# On-boarding Overview
 
 ## Overview of APIs
 
